@@ -14,7 +14,11 @@
 
 void app_main(void)
 {
-    printf("Hello world!\n");
+	printf("\r\n\r\n\r\n\r\n");
+	printf("//----------------------------------------------------------------------------//\r\n");
+	printf("//-                                                                          -//\r\n");
+	printf("//----------------------------------------------------------------------------//\r\n");
+	printf("Hello world!!\n\r\n\r");
 
     /* Print chip information */
     esp_chip_info_t chip_info;

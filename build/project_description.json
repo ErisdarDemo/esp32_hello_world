@@ -1,7 +1,7 @@
 {
     "version":            "1",
     "project_name":       "hello_world",
-    "project_version":    "c322780",
+    "project_version":    "b493d1f-dirty",
     "project_path":       "C:/Users/jreina/Documents/MyWorkspaces/Espressif/hello_world",
     "idf_path":           "C:/Espressif/frameworks/esp-idf-v5.1.2",
     "build_dir":          "C:/Users/jreina/Documents/MyWorkspaces/Espressif/hello_world/build",
